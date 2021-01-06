@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+}
+section{
+    height: 700px;
+}
+.nav-menu{
+    float: right;
+    margin-right: 5%;
+}
+.nav-menu ul li{
+    list-style: none;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 10px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+.hello{
+    color: navy;
+}
+.name-highlite{
+    color: lightpink;
+}
+h1{
+    font-size: 40px;
+}
+.first-site{
+    width: 30%;
+    margin: 7%;
+    float: left;
+}
+.first-site img{
+    width: 120%;
+}
+.button{
+    border-radius: 7px;
+    text-decoration: none;
+    background-color: lightsalmon;
+    padding: 20px 27px;
+    font-size: 25px;
+    color: white;
+}
+p{
+    font-size: 20px;
+    color: black;
+    text-align: justify;
+    padding: 10px 10px;
+}
+h2{
+text-align: center;
+padding-bottom: 10px;
+}
+.project{
+ color: red;
+}
+.background{
+    background-image: url("image/img3.png");
+}
+.space{
+    padding-top: 50px;
+}
+.box-shadow{
+    margin-top: 5%;
+    margin-left: 6%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    height: 50%;
+    width: 25%;
+    display: inline-block;
+}
+
+.box-shadow img{
+    width: 100%;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+.box-shadow p{
+    font-size: 16px;
+    text-align: justify;
+    padding: 5px 7px;
+
+}
+.second-site{
+    width: 60%;
+}
+.second-site img{
+    margin-top: 5%;
+    width: 100%;
+    margin-left: 30%;
+}
+button{
+    border-radius: 5px;
+    position: absolute;
+    border: none;
+    padding: 15px 15px;
+    top: 370%;
+    right: 35%;
+    background-color: tomato;
+    color: white;
+    font-size: 20px;
+}
+.bottom{
+    position: absolute;
+    margin-top: 9%;
+    margin-left: 20%;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+}
+.design{
+    color: blue;
+    text-align: center;
+}
+.icon{
+    margin-right: 30%;
+    float: right;
+}
+.icon img{
+    width: 10%;
+    margin-left: 3%;
+}
+.highlite{
+    color: grey;
+}
