@@ -98,7 +98,7 @@ button{
     position: absolute;
     border: none;
     padding: 15px 15px;
-    top: 320%;
+    margin-top: 9%;
     right: 35%;
     background-color: tomato;
     color: white;
